@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlessedBoy16
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in mobile develpment
 - 💞️ I’m looking to collaborate on fin-tech & e-comerce
 
