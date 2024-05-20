@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex
+- 👋 Hi, I’m Alex Trubanenko
 - 👀 I’m interested in mobile develpment
 - 💞️ I’m looking to collaborate on fin-tech & e-comerce
 
